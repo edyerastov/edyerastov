@@ -4,7 +4,7 @@ Hi 👋 My name is Ed
 Full Stack Developer
 --------------------
 
-I've been learning to code for 5 years. I started with frontend, but have really found a passion for backend development. That's why I am now developing as a full stack developer
+I've been learning to code for 6 years. I started with frontend, but have really found a passion for backend development. That's why I am now developing as a full stack developer
 
 * 🌍  I'm based in Ukraine 🇺🇦
 * ✉️  You can contact me at [edleft4mad@gmail.com](mailto:edleft4mad@gmail.com)
