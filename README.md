@@ -9,7 +9,6 @@ I've been learning to code for 6 years. I started with frontend, but have really
 * 🌍  I'm based in Ukraine 🇺🇦
 * ✉️  You can contact me at [edleft4mad@gmail.com](mailto:edleft4mad@gmail.com)
 * 🚀  I'm currently working on [TerraForce](https://terraforcesoftware.com/)
-* 🧠  I'm learning Laravel
 
 ### Skills
 
